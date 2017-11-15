@@ -142,6 +142,9 @@
     <ClInclude Include="HeapNode.h" />
     <ClInclude Include="MaxHeap.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MaxHeap.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
